@@ -1,5 +1,6 @@
-from turtle import shape
-import numpy as np
-a = np.array(2,str)
-print(a,type(a),a.shape)
+import numpy as np;
+a = np.array([[1,2,3,4,5],[3,4,5,6,7]])
+print(a)
+print(a.shape)
+
 
